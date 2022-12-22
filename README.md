@@ -7,3 +7,4 @@ Just because. :D
 
 [SVG Image](https://github.com/PeGaSuS-Coder/onefm/blob/main/logo.svg)
 
+$
